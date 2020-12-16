@@ -1,3 +1,5 @@
+; this file is just a template for me to generate another .tm file
+
 ; the finite set of states
 #Q = {}
 
