@@ -1,5 +1,8 @@
 项目文件说明
 ====
+Warning
+----
+仅供学习参考，禁止抄袭行为
 
 编译源码
 ----
@@ -26,3 +29,6 @@ usage: turing [-v|--verbose] [-h|--help] <tm> <input>
 ```
 python test.py
 ```
+
+详细信息请阅读https://ptc-nju.github.io/
+----
